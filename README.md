@@ -51,7 +51,8 @@ You can run the website by typing:
 
 - python run.py
 
-(If you are using a Mac you may need to type python3 run.py).
+(If you
+ are using a Mac you may need to type python3 run.py).
 
 You can now browse to the url http://localhost:8001/ and you should see the home page for the website.
 
